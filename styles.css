@@ -1,0 +1,42 @@
+body {
+    font-family: 'Ubuntu', sans-serif;
+    background-color: #EFF5F5;
+    background-image: url("https://t4.ftcdn.net/jpg/02/43/75/73/360_F_243757367_gBpS6R5c8DB7pL5gw9gi9KXlzFfbdZOA.jpg");
+ background-color: #EFF5F5;
+}
+
+h1 {
+
+    text-align: center;
+    color: #66bfb6
+    
+    }
+    
+    h3 {
+    
+    text-align: center;
+    color: #66bfb6
+    
+    }
+    
+    img {
+
+        height: 500px;
+      
+        width: 350px;
+      
+        border-radius: 3px;
+        border-radius: 3px;
+        background: #66bfb6;
+        padding: 5px;
+        width: 350px;
+        height: 500px;
+      }
+
+      hr {
+        border-style: none;
+        border-top-style: dotted;
+        border-color: grey;
+        border-width: 5px;
+        width: 5%;
+    }
